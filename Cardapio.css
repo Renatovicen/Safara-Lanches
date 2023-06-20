@@ -1,0 +1,115 @@
+body{
+    background-color: #FF6347;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav
+{
+display: flex;
+justify-content: space-between;
+background-color: #FF6347;   
+}
+
+ul{
+list-style-type: none;
+padding: 16px;
+align-items: center;
+}
+
+a{
+color: rgb(19, 19, 19);
+text-decoration: none;
+}
+
+.lanche1{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border:5px solid red;
+}
+.lanche2{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border:5px solid red;
+}
+
+.lanche4{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border:5px solid red;
+}
+
+.container {
+    padding: 0px 50px;
+ }
+
+ p{
+    font-style: oblique;
+    font-family: cursive;
+ }
+
+ footer img{ 
+    width: 40px;
+    height: 40px;
+ }
+
+ footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ footer a{
+    margin: 20px;
+ }
+
+ .home{
+        width: 60px;
+        height: 60px;
+     }
+ 
+footer p{
+        margin: 20px;
+     }
+
+.loc{
+    width: 60px;
+    height: 60px;
+}
+
+.bebida1{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border:5px solid red;
+}
+
+.bebida2{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border:5px solid red;
+}
+
+.bebida3{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border:5px solid red;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.logonav{
+    width: 100px;
+    height: 75px;
+    border-radius: 50%;
+    border:5px solid red;
+ }
